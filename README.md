@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello
+Currently, I am in a school project and trying to do an amazing website. Still learning how to make a website tho. I am looking to collaborate with a good website maker! if u want to reach me just gmail me at @khanthein.alpha@gmail.com 
+Pronouns : he/him
+
 
 <!--
 **khanthein/khanthein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
